@@ -22,9 +22,5 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=YxYL6125&theme=tokyonight" alt="YxYL6125's GitHub stats" align = "left" width="400"  />
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YxYL6125&theme=react-dark" alt="Ashutosh's github activity graph" align = "right" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YxYL6125&theme=react-dark" alt="Ashutosh's github activity graph"  />
 
