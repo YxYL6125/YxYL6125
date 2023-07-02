@@ -15,14 +15,11 @@
 ![Static Badge](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin)
 ![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
 ![Static Badge](https://img.shields.io/badge/Arch-black?style=for-the-badge&logo=ArchLInux)
-
 ![Static Badge](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring)
-
 ![Static Badge](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)
-
 ![Static Badge](https://img.shields.io/badge/Quarkus-black?style=for-the-badge&logo=Quarkus)
-
 ![Static Badge](https://img.shields.io/badge/VSCODE-black?style=for-the-badge&logo=visual-studio-code)
+
 
 ![YxYL6125's GitHub stats](https://github-readme-stats.vercel.app/api?username=YxYL6125&theme=tokyonight )
 
