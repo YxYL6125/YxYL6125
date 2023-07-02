@@ -25,5 +25,5 @@
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YxYL6125&theme=react-dark" alt="Ashutosh's github activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YxYL6125&theme=react-dark" alt="Ashutosh's github activity graph" align = "right" />
 
