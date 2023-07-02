@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://yxyl6125.eu.org/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello World;YxYLのTinyHome&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://yxyl6125.eu.org/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello World;YxYL の TinyHome&center=true&size=27"> </a> </h1>
 
 ---
 
