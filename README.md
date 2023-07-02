@@ -21,9 +21,9 @@
 ![Static Badge](https://img.shields.io/badge/VSCODE-black?style=for-the-badge&logo=visual-studio-code)
 
 ---
-![YxYL6125's GitHub stats](https://github-readme-stats.vercel.app/api?username=YxYL6125&theme=tokyonight )
+<img src="https://github-readme-stats.vercel.app/api?username=YxYL6125&theme=tokyonight" alt="YxYL6125's GitHub stats" align = "left"  />
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YxYL6125&theme=react-dark" alt="Ashutosh's github activity graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YxYL6125&theme=react-dark" alt="Ashutosh's github activity graph" align = "right" style="zoom:67%;" />
 
