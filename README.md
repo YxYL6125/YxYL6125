@@ -5,8 +5,8 @@
 
 
 - 👋 Hi, I’m YxYL
-- 👀 I’m interested in Kali, Java, Kotlin, Vue, XSS，
-- 🌱 I’m currently learning how to type beautiful(bushi) code
+- 👀 I’m interested in Arch, Java, Kotlin, groovy……
+- 🌱 I’m currently learning how to type stronger(bushi) code
 - 📫 How to reach me email: yxyl6125@gmail.com
 - 📝 [Blog(Hole)](http://www.yxyl6125.eu.org)
 
