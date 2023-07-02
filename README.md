@@ -16,11 +16,4 @@
 
 
 
-
-
-
-
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=YxYL6125&theme=react-dark" />
-</div>
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YxYL6125&theme=react-dark)
