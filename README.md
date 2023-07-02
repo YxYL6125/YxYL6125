@@ -20,6 +20,10 @@
 ![Static Badge](https://img.shields.io/badge/Quarkus-black?style=for-the-badge&logo=Quarkus)
 ![Static Badge](https://img.shields.io/badge/VSCODE-black?style=for-the-badge&logo=visual-studio-code)
 
+<br>
+
+<br>
+
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YxYL6125&theme=react-dark" alt="Ashutosh's github activity graph"  />
