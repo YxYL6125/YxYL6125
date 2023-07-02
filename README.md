@@ -4,9 +4,6 @@
 
 <img align="left" src="github-metrics.svg" alt="Metrics" width="450">
 
-
-    
-
 ## About
 
 - :snowflake:Backend - CloudNative - Arch
@@ -22,6 +19,21 @@
 ![Static Badge](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)
 ![Static Badge](https://img.shields.io/badge/Quarkus-black?style=for-the-badge&logo=Quarkus)
 ![Static Badge](https://img.shields.io/badge/VSCODE-black?style=for-the-badge&logo=visual-studio-code)
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YxYL6125&theme=react-dark" alt="Ashutosh's github activity graph"  />
