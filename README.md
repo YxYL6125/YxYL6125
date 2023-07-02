@@ -4,19 +4,27 @@
 
 <img align="left" src="github-metrics.svg" alt="Metrics" width="400">
 
-- 👋 Hi, I’m YxYL
-- 👀 I’m interested in Arch, Java, Kotlin, groovy……
-- 🌱 I’m currently learning how to type stronger(bushi) code
-- 📫 How to reach me email: yxyl6125@gmail.com
-- 📝 [Blog(Hole)](http://www.yxyl6125.eu.org)
+## About
 
-![YxYL6125's GitHub stats](https://github-readme-stats.vercel.app/api?username=YxYL6125&theme=tokyonight ) <img align="right" alt="GIF" src="https://github.com/YxYL6125/YxYL6125/blob/main/code.gif?raw=true" width="280" height="100%" />
+- :snowflake:Backend - CloudNative - Arch
+- :email:Email：yxyl6125@gmail.com
+- :office:Site：https://www.yxyl6125.eu.org
 
 
 
+![Static Badge](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin)
+![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![Static Badge](https://img.shields.io/badge/Arch-black?style=for-the-badge&logo=ArchLInux)
 
+![Static Badge](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring)
 
+![Static Badge](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)
 
+![Static Badge](https://img.shields.io/badge/Quarkus-black?style=for-the-badge&logo=Quarkus)
+
+![Static Badge](https://img.shields.io/badge/VSCODE-black?style=for-the-badge&logo=visual-studio-code)
+
+![YxYL6125's GitHub stats](https://github-readme-stats.vercel.app/api?username=YxYL6125&theme=tokyonight )
 
 
 
