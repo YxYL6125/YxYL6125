@@ -1,5 +1,9 @@
 <h1 align="center"> <a href="https://yxyl6125.eu.org/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello World;YxYLのTinyHome&center=true&size=27"> </a> </h1>
 
+---
+
+<img align="left" src="github-metrics.svg" alt="Metrics" width="400">
+
 - 👋 Hi, I’m YxYL
 - 👀 I’m interested in Arch, Java, Kotlin, groovy……
 - 🌱 I’m currently learning how to type stronger(bushi) code
@@ -16,4 +20,5 @@
 
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YxYL6125&theme=react-dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YxYL6125&theme=react-dark" alt="Ashutosh's github activity graph"  />
+
