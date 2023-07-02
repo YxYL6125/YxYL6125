@@ -8,3 +8,19 @@
 
 ![YxYL6125's GitHub stats](https://github-readme-stats.vercel.app/api?username=YxYL6125&theme=tokyonight ) <img align="right" alt="GIF" src="https://github.com/YxYL6125/YxYL6125/blob/main/code.gif?raw=true" width="280" height="100%" />
 
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=YxYL6125&theme=react-dark" />
+</div>
+
