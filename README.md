@@ -2,7 +2,7 @@
 
 ---
 
-<img align="left" src="github-metrics.svg" alt="Metrics" width="400">
+<img align="left" src="github-metrics.svg" alt="Metrics" width="450">
 
 ## About
 
@@ -25,5 +25,5 @@
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YxYL6125&theme=react-dark" alt="Ashutosh's github activity graph" align = "right" width="800" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YxYL6125&theme=react-dark" alt="Ashutosh's github activity graph"/>
 
