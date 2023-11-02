@@ -1,7 +1,5 @@
 <h1 align="center"> <a href="https://yxyl6125.eu.org/"> <img src="./title.svg"> </a> </h1>
 
----
-
 <img align="left" src="github-metrics.svg" alt="Metrics" width="450">
 
 ## About
